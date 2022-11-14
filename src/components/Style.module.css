@@ -1,0 +1,16 @@
+.button {
+  background-color: green;
+}
+
+.modal {
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  background: aqua;
+  padding: 2rem;
+}
+
+.todo {
+  display: flex;
+}
